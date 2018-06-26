@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;concurrent&apos;&#x0D;&#x0A;- Original project: &apos;concurrent&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     concurrent/src/sysu.conn008&#x0D;&#x0A;     concurrent/src/sysu.conn009&#x0D;&#x0A;     concurrent/src/sysu.conn010&#x0D;&#x0A;     concurrent/src/sysu.conn011" description="Delete elements" element1="/src&lt;sysu.conn011" element2="/src&lt;sysu" element3="/src&lt;sysu.conn010" element4="/src&lt;sysu" element5="/src&lt;sysu.conn009" element6="/src&lt;sysu" element7="/src&lt;sysu.conn008" element8="/src&lt;sysu" elements="8" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1524744854473" subPackages="false" version="1.0"/>
+</session>
